@@ -3,7 +3,7 @@ export const categoryNames: string[] = [
   'Car', 'Gas', 'Parking Fees', 'Housing', 'Rent', 'Mortgage', 'Property Taxes', 'Taxes', 'Household', 'House', 'Repairs',
   'Food', 'Utilities', 'Bills', 'Electricity', 'Water', 'Garbage', 'Phones', 'Cable', 'Internet', 'Subscription', 'Subscriptions',
   'Netflix', 'Hulu', 'Disney+', 'Google', 'Adobe', 'Clothing', 'Clothes', 'Healthcare', 'Health', 'Insurance', 'Household Repairs',
-  'Personal', 'Education', 'Gym Membership', 'Gym', 'Haircut', 'Haircuts', 'Debt', 'Entertainment', 'Movie', 'Movies', 'Film',
+  'Personal', 'Education', 'Gym membership', 'Gym', 'Haircut', 'Haircuts', 'Debt', 'Entertainment', 'Movie', 'Movies', 'Film',
   'Films', 'Retirement', 'Fund', 'Donations', 'Gifts', 'Gifts and Donations', 'Cash Deposit', 'Salary', 'Freelance', 'Job',
   'Income source', 'Cash withdraw', 'Groceries', 'Eating Out', 'Restaurants', 'Dining', 'Travel', 'Vacation', 'Holidays',
   'Leisure', 'Recreation', 'Hobbies', 'Pet Expenses', 'Pet Care', 'Veterinary', 'Childcare', 'Education', 'Tuition', 'Books',
